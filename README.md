@@ -5,7 +5,7 @@ Detailed EDA Project 🚀
 </h1>
 
 <p align="center">
-  <img src="https://discovertemplate.com/wp-content/uploads/2021/02/DT_81_Business-start-up-Animated-GIF-Icon-pack.gif">
+  <img src="[https://discovertemplate.com/wp-content/uploads/2021/02/DT_81_Business-start-up-Animated-GIF-Icon-pack.gif](https://iconscout.com/lottie-animation/boy-and-girl-looking-at-startup-graph-11496469)">
 </p>
 
 ## **Executive Summary**  
