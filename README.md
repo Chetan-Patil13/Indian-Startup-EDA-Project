@@ -1,5 +1,5 @@
 <h1 align="center">
-📍 Startup Funding Analysis  💼💰
+🎯💡 Startup Funding Analysis  💼💰
   
 Detailed EDA Project 🚀
 </h1>
